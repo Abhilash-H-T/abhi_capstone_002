@@ -26,8 +26,6 @@ phases performed in the previous steps
 
 
 
-
-
-Import the project in eclipse IDE
+Import the project in eclipse IDE, then
 
 Run it
